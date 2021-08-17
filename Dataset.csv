@@ -1,0 +1,225 @@
+Timestamp,Age,Gender,State,City Tier,Education Level,Employement Status,Product Category
+6/10/2021 12:19:24,19,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/10/2021 12:20:45,20,Female,Delhi,Tier 1,Bachelor Degree,Not Employed,Medical supplies
+6/10/2021 12:25:41,20,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/10/2021 12:26:17,20,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Clothing and accessories
+6/10/2021 12:26:26,20,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 12:27:28,21,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Stationery
+6/10/2021 12:38:31,30,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Medical supplies
+6/10/2021 12:42:44,20,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 12:43:28,30,Male,Gujarat,Tier 1,Other,Not Employed,Medical supplies
+6/10/2021 12:45:33,50,Male,Delhi,Tier 1,Other,Employed,Electronics
+6/10/2021 12:49:46,20,Female,Uttar Pradesh,Tier 1,Bachelor Degree,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/10/2021 12:50:50,25,Male,Delhi,Tier 1,Bachelor Degree,Employed,Electronics
+6/10/2021 12:58:12,21,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 13:54:12,26,Male,Uttar Pradesh,Tier 2,Bachelor Degree,Employed,Household
+6/10/2021 13:57:17,19,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 14:14:52,19,Male,Delhi,Tier 1,School,Not Employed,Clothing and accessories
+6/10/2021 14:16:06,18,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 14:23:04,20,Male,Delhi,Tier 1,School,Not Employed,Electronics
+6/10/2021 14:25:41,21,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 14:58:38,20,Female,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 15:00:04,20,Male,Haryana,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 15:01:34,19,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/10/2021 16:04:28,20,Female,Haryana,Tier 1,Bachelor Degree,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/10/2021 16:48:36,20,Male,Delhi,Tier 2,Bachelor Degree,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/10/2021 18:39:24,49,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Household
+6/10/2021 18:39:41,50,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Medical supplies
+6/10/2021 18:43:35,50,Male,Delhi,Tier 1,Bachelor Degree,Employed,Household
+6/10/2021 18:56:59,32,Male,Delhi,Tier 3,School,Employed,Medical supplies
+6/10/2021 18:59:43,28,Female,Delhi,Tier 1,School,Not Employed,Household
+6/10/2021 19:00:19,8,Male,Delhi,Tier 1,School,Not Employed,Household
+6/10/2021 19:01:09,30,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Medical supplies
+6/10/2021 19:22:26,28,Male,Maharashtra,Tier 1,Master Degree,Employed,Medical supplies
+6/10/2021 19:31:59,35,Female,Delhi,Tier 1,Master Degree,Not Employed,Household
+6/10/2021 19:32:31,52,Male,Gujarat,Tier 2,Other,Employed,Household
+6/10/2021 19:46:41,45,Male,Delhi,Tier 2,Bachelor Degree,Employed,Clothing and accessories
+6/10/2021 19:55:05,49,Male,Gujarat,Tier 2,Other,Employed,Household
+6/10/2021 20:15:09,53,Male,Gujarat,Tier 1,Bachelor Degree,Not Employed,Footwear
+6/10/2021 20:32:57,20,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Footwear
+6/10/2021 20:51:01,54,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Household
+6/10/2021 21:16:45,26,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Electronics
+6/10/2021 21:19:39,48,Male,Gujarat,Tier 1,Other,Not Employed,Stationery
+6/10/2021 21:30:19,50,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Medical supplies
+6/10/2021 21:46:04,48,Male,Gujarat,Tier 2,Other,Not Employed,Clothing and accessories
+6/10/2021 21:47:05,51,Male,Delhi,Tier 1,Other,Employed,Electronics
+6/10/2021 21:51:27,23,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Medical supplies
+6/10/2021 21:52:12,47,Male,Madhya Pradesh,Tier 1,Other,Employed,Household
+6/10/2021 22:51:20,50,Female,Delhi,Tier 1,Master Degree,Not Employed,Household
+6/10/2021 22:55:59,54,Male,Delhi,Tier 1,Master Degree,Employed,Footwear
+6/11/2021 7:20:11,49,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Electronics
+6/11/2021 8:32:39,49,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Stationery
+6/11/2021 9:13:52,39,Male,Gujarat,Tier 1,Master Degree,Employed,Electronics
+6/11/2021 9:18:49,20,Male,Uttar Pradesh,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/11/2021 11:25:34,13,Female,Delhi,Tier 2,School,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/11/2021 11:30:24,8,Male,Delhi,Tier 2,School,Not Employed,Clothing and accessories
+6/11/2021 22:48:46,44,Male,Rajasthan,Tier 1,Other,Employed,Electronics
+6/12/2021 8:37:32,48,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 8:42:21,17,Female,Rajasthan,Tier 2,School,Not Employed,Clothing and accessories
+6/12/2021 8:44:23,33,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Clothing and accessories
+6/12/2021 8:45:23,41,Female,Rajasthan,Tier 2,Master Degree,Not Employed,Clothing and accessories
+6/12/2021 8:51:30,49,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/12/2021 8:54:20,27,Female,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Clothing and accessories
+6/12/2021 8:54:30,35,Male,Rajasthan,Tier 1,Master Degree,Employed,Stationery
+6/12/2021 8:56:21,60,Female,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Cosmetics
+6/12/2021 8:56:35,45,Male,Delhi,Tier 1,Bachelor Degree,Employed,Electronics
+6/12/2021 9:01:29,31,Female,Rajasthan,Tier 1,Master Degree,Employed,Household
+6/12/2021 9:03:56,45,Male,Rajasthan,Tier 3,Master Degree,Employed,Electronics
+6/12/2021 9:05:58,20,Female,Rajasthan,Tier 2,School,Employed,Clothing and accessories
+6/12/2021 9:09:09,23,Male,Rajasthan,Tier 2,Bachelor Degree,Employed,Electronics
+6/12/2021 9:10:24,10,Male,Rajasthan,Tier 2,School,Not Employed,Stationery
+6/12/2021 9:15:34,42,Female,Rajasthan,Tier 3,Master Degree,Not Employed,Household
+6/12/2021 9:16:51,73,Female,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Medical supplies
+6/12/2021 9:17:13,20,Female,Rajasthan,Tier 2,Bachelor Degree,Employed,Clothing and accessories
+6/12/2021 9:18:09,53,Male,Delhi,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 9:19:30,18,Male,Rajasthan,Tier 3,School,Employed,Household
+6/12/2021 9:20:39,20,Male,Rajasthan,Tier 3,Bachelor Degree,Not Employed,Clothing and accessories
+6/12/2021 9:24:24,19,Male,Rajasthan,Tier 2,School,Not Employed,Clothing and accessories
+6/12/2021 9:25:13,47,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Medical supplies
+6/12/2021 9:33:41,48,Male,Rajasthan,Tier 2,Master Degree,Employed,Clothing and accessories
+6/12/2021 9:35:12,20,Female,Rajasthan,Tier 2,Bachelor Degree,Employed,Clothing and accessories
+6/12/2021 9:35:16,45,Male,Delhi,Tier 1,Bachelor Degree,Employed,Household
+6/12/2021 9:36:09,20,Male,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Electronics
+6/12/2021 9:43:15,23,Male,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/12/2021 9:44:29,24,Female,Rajasthan,Tier 2,Master Degree,Employed,Clothing and accessories
+6/12/2021 9:49:04,29,Female,Bihar,Tier 1,Master Degree,Employed,Clothing and accessories
+6/12/2021 9:51:06,51,Male,Rajasthan,Tier 1,Master Degree,Employed,Cosmetics
+6/12/2021 9:51:59,46,Female,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/12/2021 10:01:05,38,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 10:04:32,24,Male,Rajasthan,Tier 1,School,Not Employed,Electronics
+6/12/2021 10:05:59,53,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/12/2021 10:06:00,25,Male,Rajasthan,Tier 3,Bachelor Degree,Not Employed,Clothing and accessories
+6/12/2021 10:06:11,28,Male,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Electronics
+6/12/2021 10:07:06,21,Female,Rajasthan,Tier 2,Bachelor Degree,Employed,Clothing and accessories
+6/12/2021 10:08:47,19,Female,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Clothing and accessories
+6/12/2021 10:08:53,39,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 10:09:38,28,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/12/2021 10:11:07,19,Female,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Clothing and accessories
+6/12/2021 10:11:13,24,Male,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Clothing and accessories
+6/12/2021 10:13:42,32,Male,Rajasthan,Tier 1,Master Degree,Not Employed,Electronics
+6/12/2021 10:13:55,29,Male,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/12/2021 10:14:51,25,Male,Rajasthan,Tier 3,Bachelor Degree,Not Employed,Electronics
+6/12/2021 10:15:45,22,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 10:22:28,24,Male,Rajasthan,Tier 1,School,Employed,Electronics
+6/12/2021 10:24:20,25,Female,Rajasthan,Tier 2,Master Degree,Employed,Clothing and accessories
+6/12/2021 10:30:40,30,Male,Rajasthan,Tier 1,Master Degree,Employed,Stationery
+6/12/2021 10:37:14,20,Female,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Clothing and accessories
+6/12/2021 10:38:49,20,Female,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Clothing and accessories
+6/12/2021 10:41:31,28,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 10:54:38,46,Female,Rajasthan,Tier 1,Master Degree,Not Employed,Household
+6/12/2021 10:55:37,20,Female,Rajasthan,Tier 1,Other,Not Employed,Clothing and accessories
+6/12/2021 11:10:00,23,Male,Rajasthan,Tier 1,School,Not Employed,Electronics
+6/12/2021 11:10:30,36,Male,Rajasthan,Tier 3,Master Degree,Not Employed,Household
+6/12/2021 11:13:24,25,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 11:32:17,26,Male,Rajasthan,Tier 1,School,Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/12/2021 12:07:10,19,Female,Rajasthan,Tier 2,School,Not Employed,Clothing and accessories
+6/12/2021 12:08:29,50,Male,Rajasthan,Tier 1,Other,Employed,Electronics
+6/12/2021 12:08:52,21,Female,Rajasthan,Tier 1,Master Degree,Employed,Clothing and accessories
+6/12/2021 12:29:51,40,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 12:40:32,54,Male,Rajasthan,Tier 2,Master Degree,Employed,Electronics
+6/12/2021 13:33:12,17,Female,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Medical supplies
+6/12/2021 13:36:08,28,Male,Rajasthan,Tier 3,Bachelor Degree,Employed,Clothing and accessories
+6/12/2021 13:38:31,30,Male,Rajasthan,Tier 1,Master Degree,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/12/2021 13:39:39,23,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/12/2021 13:42:23,32,Male,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Cosmetics
+6/12/2021 13:50:59,31,Male,Rajasthan,Tier 3,Bachelor Degree,Not Employed,Stationery
+6/12/2021 14:17:44,46,Male,Delhi,Tier 1,School,Employed,Clothing and accessories
+6/12/2021 15:12:24,22,Female,Gujarat,Tier 1,Bachelor Degree,Not Employed,Cosmetics
+6/12/2021 15:12:53,18,Male,Gujarat,Tier 1,School,Not Employed,Household
+6/12/2021 15:12:59,18,Male,Gujarat,Tier 1,School,Not Employed,Household
+6/12/2021 15:20:02,49,Male,Gujarat,Tier 2,Bachelor Degree,Employed,Household
+6/12/2021 15:24:48,49,Male,Gujarat,Tier 2,Bachelor Degree,Employed,Household
+6/12/2021 15:26:38,48,Male,Gujarat,Tier 2,Master Degree,Employed,Household
+6/12/2021 15:30:01,27,Male,Rajasthan,Tier 2,Bachelor Degree,Employed,Electronics
+6/12/2021 15:37:00,33,Female,Rajasthan,Tier 1,Master Degree,Employed,Household
+6/12/2021 16:26:25,23,Male,Gujarat,Tier 3,Master Degree,Employed,Electronics
+6/12/2021 16:44:12,30,Male,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/12/2021 18:28:00,17,Male,Gujarat,Tier 1,School,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/12/2021 18:43:48,18,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Clothing and accessories
+6/12/2021 18:51:39,25,Male,Rajasthan,Tier 2,Bachelor Degree,Employed,Clothing and accessories
+6/12/2021 18:55:22,30,Male,Gujarat,Tier 1,Master Degree,Employed,Electronics
+6/12/2021 19:10:58,21,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Medical supplies
+6/12/2021 19:25:02,23,Male,Gujarat,Tier 1,Bachelor Degree,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/12/2021 21:27:54,16,Male,Gujarat,Tier 3,School,Not Employed,Electronics
+6/12/2021 22:16:20,32,Male,Rajasthan,Tier 1,Master Degree,Not Employed,Electronics
+6/12/2021 22:45:45,26,Male,Rajasthan,Tier 3,Bachelor Degree,Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/12/2021 23:11:05,18,Male,Gujarat,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/13/2021 9:00:25,16,Male,Uttar Pradesh,Tier 2,School,Not Employed,Household
+6/13/2021 10:25:49,21,Male,Gujarat,Tier 1,Bachelor Degree,Not Employed,Clothing and accessories
+6/13/2021 10:42:12,29,Male,Gujarat,Tier 1,Other,Employed,Electronics
+6/13/2021 16:08:32,17,Female,Uttar Pradesh,Tier 3,School,Not Employed,Cosmetics
+6/13/2021 16:10:49,17,Male,Uttar Pradesh,Tier 2,School,Not Employed,Clothing and accessories
+6/13/2021 16:16:13,31,Male,Rajasthan,Tier 2,Master Degree,Not Employed,Stationery
+6/13/2021 20:01:08,18,Male,Gujarat,Tier 1,Bachelor Degree,Employed,Clothing and accessories
+6/14/2021 11:03:02,50,Female,Delhi,Tier 1,Master Degree,Employed,Electronics
+6/14/2021 11:03:03,29,Female,Delhi,Tier 1,Other,Employed,Stationery
+6/14/2021 11:03:38,17,Female,Delhi,Tier 1,School,Not Employed,Electronics
+6/14/2021 11:04:53,82,Male,Delhi,Tier 2,Master Degree,Not Employed,Electronics
+6/14/2021 11:05:26,51,Male,Delhi,Tier 2,Master Degree,Employed,Electronics
+6/14/2021 11:06:33,33,Female,Haryana,Tier 1,Master Degree,Employed,Cosmetics
+6/14/2021 14:55:12,25,Male,Rajasthan,Tier 3,Bachelor Degree,Not Employed,Clothing and accessories
+6/14/2021 15:16:16,48,Male,Delhi,Tier 1,Bachelor Degree,Employed,Medical supplies
+6/14/2021 18:46:33,20,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/14/2021 18:49:46,19,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/14/2021 18:54:50,19,Male,Uttarakhand,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/14/2021 19:02:34,20,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/14/2021 19:02:54,18,Female,Uttarakhand,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/14/2021 19:07:23,19,Male,Uttarakhand,Tier 1,Bachelor Degree,Not Employed,Clothing and accessories
+6/14/2021 19:43:03,42,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/14/2021 19:44:57,18,Male,Rajasthan,Tier 1,School,Not Employed,Clothing and accessories
+6/14/2021 19:46:05,38,Female,Rajasthan,Tier 1,Master Degree,Employed,Clothing and accessories
+6/14/2021 19:46:52,18,Male,Rajasthan,Tier 1,School,Not Employed,Clothing and accessories
+6/14/2021 19:48:24,24,Male,Rajasthan,Tier 1,Other,Employed,Electronics
+6/14/2021 19:49:13,24,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/14/2021 19:49:19,15,Male,Rajasthan,Tier 1,Other,Not Employed,Electronics
+6/14/2021 19:51:20,34,Male,Rajasthan,Tier 1,Master Degree,Employed,Cosmetics
+6/14/2021 19:57:58,19,Female,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Clothing and accessories
+6/14/2021 19:57:59,26,Male,Rajasthan,Tier 2,Bachelor Degree,Not Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/14/2021 19:58:02,44,Female,Rajasthan,Tier 2,Master Degree,Not Employed,Household
+6/14/2021 20:01:29,30,Male,Rajasthan,Tier 1,Other,Not Employed,Electronics
+6/14/2021 20:03:20,29,Male,Rajasthan,Tier 2,Bachelor Degree,Not Employed,Clothing and accessories
+6/14/2021 20:09:49,30,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/14/2021 20:10:43,27,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Household
+6/14/2021 20:13:10,27,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Household
+6/14/2021 20:14:33,19,Female,Uttarakhand,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/14/2021 20:15:30,32,Male,Rajasthan,Tier 1,Master Degree,Employed,Stationery
+6/14/2021 20:16:41,25,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/14/2021 20:17:39,25,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/14/2021 20:23:24,42,Male,Rajasthan,Tier 1,Other,Not Employed,Stationery
+6/14/2021 20:25:35,30,Female,Rajasthan,Tier 1,Master Degree,Not Employed,Clothing and accessories
+6/14/2021 20:27:41,29,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/14/2021 20:28:13,28,Male,Rajasthan,Tier 1,Master Degree,Not Employed,Clothing and accessories
+6/14/2021 20:29:42,19,Male,Uttarakhand,Tier 1,Bachelor Degree,Not Employed,Footwear
+6/14/2021 20:48:56,43,Male,Rajasthan,Tier 2,Bachelor Degree,Employed,Electronics
+6/14/2021 20:49:52,42,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/14/2021 20:50:24,29,Male,Rajasthan,Tier 1,Master Degree,Employed,Clothing and accessories
+6/14/2021 20:59:40,18,Male,Uttarakhand,Tier 2,Bachelor Degree,Not Employed,Electronics
+6/14/2021 21:01:53,19,Male,Rajasthan,Tier 1,School,Not Employed,Household
+6/14/2021 21:06:31,30,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/14/2021 21:11:43,40,Male,Rajasthan,Tier 1,School,Not Employed,Electronics
+6/14/2021 21:14:08,23,Male,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Clothing and accessories
+6/14/2021 21:20:23,23,Male,Rajasthan,Tier 1,School,Employed,Clothing and accessories
+6/14/2021 21:24:13,27,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/14/2021 21:32:23,22,Male,Delhi,Tier 1,Bachelor Degree,Employed,Electronics
+6/14/2021 21:33:01,26,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Medical supplies
+6/14/2021 21:34:57,29,Male,Rajasthan,Tier 1,Bachelor Degree,Employed,Electronics
+6/14/2021 21:35:27,29,Male,Rajasthan,Tier 1,Master Degree,Not Employed,Electronics
+6/14/2021 21:41:59,52,Male,Delhi,Tier 1,Bachelor Degree,Employed,Electronics
+6/14/2021 21:44:36,32,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/14/2021 22:04:33,48,Male,Rajasthan,Tier 2,Master Degree,Employed,Electronics
+6/14/2021 22:04:51,25,Male,Rajasthan,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/14/2021 22:28:35,30,Female,Rajasthan,Tier 1,Master Degree,Employed,Clothing and accessories
+6/14/2021 22:30:16,36,Male,Rajasthan,Tier 3,School,Employed,Stationery
+6/14/2021 22:45:16,32,Male,Rajasthan,Tier 1,Master Degree,Employed,Electronics
+6/14/2021 23:21:34,23,Male,Delhi,Tier 1,Bachelor Degree,Employed,Electronics
+6/14/2021 23:23:14,21,Male,Delhi,Tier 1,Bachelor Degree,Employed,Household
+6/14/2021 23:25:13,29,Male,Delhi,Tier 2,Bachelor Degree,Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/14/2021 23:34:58,24,Male,Delhi,Tier 1,Bachelor Degree,Employed,Clothing and accessories
+6/14/2021 23:38:49,24,Female,Delhi,Tier 1,Master Degree,Employed,"OTT Subscription (Example: Netflix, Amazon Prime, etc.)"
+6/14/2021 23:39:50,23,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Footwear
+6/15/2021 0:04:49,20,Female,Delhi,Tier 1,Bachelor Degree,Not Employed,Electronics
+6/15/2021 9:00:14,28,Female,Delhi,Tier 1,Master Degree,Employed,Clothing and accessories
+6/15/2021 9:04:35,26,Male,Delhi,Tier 1,Master Degree,Employed,Stationery
+6/15/2021 9:06:08,24,Male,Delhi,Tier 1,Bachelor Degree,Employed,Electronics
+6/15/2021 13:37:01,23,Male,Delhi,Tier 1,Bachelor Degree,Employed,Electronics
+6/16/2021 1:52:37,21,Male,Delhi,Tier 1,Bachelor Degree,Not Employed,Household
